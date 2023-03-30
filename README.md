@@ -7,7 +7,7 @@ This challenge simulated a common on-the-job ticket. Improving the existing webs
 ## Installation
 N/A
 
-##Usage
+## Usage
 Access the site from this URL: 
 
 Navigate the site from the three links in the nav bar in the header. They are located top right of the screen, as seen below: 
